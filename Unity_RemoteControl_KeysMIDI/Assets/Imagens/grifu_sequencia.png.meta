@@ -1,0 +1,1304 @@
+fileFormatVersion: 2
+guid: b4c87d7c135977c45a0adefe86e8ef02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7704476244589263996
+    second: grifu_sequencia_0
+  - first:
+      213: 1039657866584915355
+    second: grifu_sequencia_1
+  - first:
+      213: -7859734204824209291
+    second: grifu_sequencia_2
+  - first:
+      213: 4228872680768104113
+    second: grifu_sequencia_3
+  - first:
+      213: -7524558380306008585
+    second: grifu_sequencia_4
+  - first:
+      213: -7651892813137583711
+    second: grifu_sequencia_5
+  - first:
+      213: -8243416077951993804
+    second: grifu_sequencia_6
+  - first:
+      213: -7446916263287941712
+    second: grifu_sequencia_7
+  - first:
+      213: -7285102834799923722
+    second: grifu_sequencia_8
+  - first:
+      213: 8491389592168736522
+    second: grifu_sequencia_9
+  - first:
+      213: -813966879912455480
+    second: grifu_sequencia_10
+  - first:
+      213: -3139843407917246079
+    second: grifu_sequencia_11
+  - first:
+      213: 6051364422742183835
+    second: grifu_sequencia_12
+  - first:
+      213: -8087117167385380977
+    second: grifu_sequencia_13
+  - first:
+      213: 8626459728584053205
+    second: grifu_sequencia_14
+  - first:
+      213: -2658133209508412946
+    second: grifu_sequencia_15
+  - first:
+      213: 7021780042553395024
+    second: grifu_sequencia_16
+  - first:
+      213: 6965151235625917619
+    second: grifu_sequencia_17
+  - first:
+      213: -8096206155160125765
+    second: grifu_sequencia_18
+  - first:
+      213: 1707666698802843572
+    second: grifu_sequencia_19
+  - first:
+      213: -1159199523060412495
+    second: grifu_sequencia_20
+  - first:
+      213: 1090766052089355600
+    second: grifu_sequencia_21
+  - first:
+      213: -567619665506201138
+    second: grifu_sequencia_22
+  - first:
+      213: -5855778954901104786
+    second: grifu_sequencia_23
+  - first:
+      213: -7319433192538815207
+    second: grifu_sequencia_24
+  - first:
+      213: -5864497638074235839
+    second: grifu_sequencia_25
+  - first:
+      213: 4393069543897501053
+    second: grifu_sequencia_26
+  - first:
+      213: -7208282689034366624
+    second: grifu_sequencia_27
+  - first:
+      213: 8329855688724593418
+    second: grifu_sequencia_28
+  - first:
+      213: -2899445539163957981
+    second: grifu_sequencia_29
+  - first:
+      213: 8890906567604785139
+    second: grifu_sequencia_30
+  - first:
+      213: -5437160172363661497
+    second: grifu_sequencia_31
+  - first:
+      213: 7906356803948778514
+    second: grifu_sequencia_32
+  - first:
+      213: -9048633168198790056
+    second: grifu_sequencia_33
+  - first:
+      213: -4036864607463674739
+    second: grifu_sequencia_34
+  - first:
+      213: -5525205829589968798
+    second: grifu_sequencia_35
+  - first:
+      213: -6395599652848606730
+    second: grifu_sequencia_36
+  - first:
+      213: -6647221189027551952
+    second: grifu_sequencia_37
+  - first:
+      213: -4765934786723406165
+    second: grifu_sequencia_38
+  - first:
+      213: 6472483491537401704
+    second: grifu_sequencia_39
+  - first:
+      213: -4765132517016420959
+    second: grifu_sequencia_40
+  - first:
+      213: -5919304159333090040
+    second: grifu_sequencia_41
+  - first:
+      213: 4310995172181776257
+    second: grifu_sequencia_42
+  - first:
+      213: 8627837122435495038
+    second: grifu_sequencia_43
+  - first:
+      213: -664335661173084709
+    second: grifu_sequencia_44
+  - first:
+      213: 3504870064011426816
+    second: grifu_sequencia_45
+  - first:
+      213: 2760157207412781274
+    second: grifu_sequencia_46
+  - first:
+      213: 7264407765298285483
+    second: grifu_sequencia_47
+  - first:
+      213: -2766432568756290902
+    second: grifu_sequencia_48
+  - first:
+      213: 6144748271023064717
+    second: grifu_sequencia_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grifu_sequencia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2529
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48342d4fca3341590800000000000000
+      internalID: -7704476244589263996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2529
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dfbb1425b9d6e00800000000000000
+      internalID: 1039657866584915355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2529
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5783774226d9ce290800000000000000
+      internalID: -7859734204824209291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_3
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 2529
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b669813c49ffaa30800000000000000
+      internalID: 4228872680768104113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_4
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2529
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5fb2a1506639790800000000000000
+      internalID: -7524558380306008585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2248
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e19527040fc590800000000000000
+      internalID: -7651892813137583711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2248
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4387de9a0c0899d80800000000000000
+      internalID: -8243416077951993804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2248
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b594ae2d1d37a890800000000000000
+      internalID: -7446916263287941712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_8
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 2248
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd2f83e19d16ea90800000000000000
+      internalID: -7285102834799923722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_9
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2248
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07aaa248d977d570800000000000000
+      internalID: 8491389592168736522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1967
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c292ef6f6534b4f0800000000000000
+      internalID: -813966879912455480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1967
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899dbc5e090d64d0800000000000000
+      internalID: -3139843407917246079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_12
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1967
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f0cf781e3caf350800000000000000
+      internalID: 6051364422742183835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_13
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1967
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87f70d98c9c4cf80800000000000000
+      internalID: -8087117167385380977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_14
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1967
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1177f0b6757b770800000000000000
+      internalID: 8626459728584053205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1686
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee10599ede96c1bd0800000000000000
+      internalID: -2658133209508412946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1686
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0578257eebf527160800000000000000
+      internalID: 7021780042553395024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_17
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1686
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc1b56552039a060800000000000000
+      internalID: 6965151235625917619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_18
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1686
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe795db56f74af80800000000000000
+      internalID: -8096206155160125765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_19
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1686
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf48e0a0d9d2b710800000000000000
+      internalID: 1707666698802843572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1405
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf8e2cec22b9efe0800000000000000
+      internalID: -1159199523060412495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_21
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1405
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d57dbf1fd232f00800000000000000
+      internalID: 1090766052089355600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_22
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1405
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec11afdebe86f18f0800000000000000
+      internalID: -567619665506201138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_23
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1405
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6759e5d0181cbea0800000000000000
+      internalID: -5855778954901104786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_24
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1405
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91545899a462c6a90800000000000000
+      internalID: -7319433192538815207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144c778387e1d9ea0800000000000000
+      internalID: -5864497638074235839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_26
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1124
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d0995897157fc30800000000000000
+      internalID: 4393069543897501053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_27
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1124
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061528fd51907fb90800000000000000
+      internalID: -7208282689034366624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_28
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1124
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b32bc8d97999370800000000000000
+      internalID: 8329855688724593418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_29
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1124
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3259a80e4a913c7d0800000000000000
+      internalID: -2899445539163957981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff454dca68d26b70800000000000000
+      internalID: 8890906567604785139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 843
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fbc5b61a35b84b0800000000000000
+      internalID: -5437160172363661497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_32
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 843
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2141cde9f9509bd60800000000000000
+      internalID: 7906356803948778514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_33
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 843
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85491b2431ccc6280800000000000000
+      internalID: -9048633168198790056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_34
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 843
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ce7c9170d2af7c0800000000000000
+      internalID: -4036864607463674739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2685f5062968253b0800000000000000
+      internalID: -5525205829589968798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_36
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 562
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1e85640044e37a0800000000000000
+      internalID: -6395599652848606730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_37
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 562
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035209c0c8350c3a0800000000000000
+      internalID: -6647221189027551952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_38
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 562
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae9caeff8ffbddb0800000000000000
+      internalID: -4765934786723406165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_39
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 562
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867baaf5171e2d950800000000000000
+      internalID: 6472483491537401704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adb297f839deddb0800000000000000
+      internalID: -4765132517016420959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_41
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 281
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d75799a386adda0800000000000000
+      internalID: -5919304159333090040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_42
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 281
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187915ab44bb3db30800000000000000
+      internalID: 4310995172181776257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_43
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 281
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7432be862c3cb770800000000000000
+      internalID: 8627837122435495038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_44
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 281
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd67286c3ec7c6f0800000000000000
+      internalID: -664335661173084709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c3d4de0ccc3a030800000000000000
+      internalID: 3504870064011426816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_46
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0b2103b5c0e4620800000000000000
+      internalID: 2760157207412781274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_47
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab8132cf5c50d460800000000000000
+      internalID: 7264407765298285483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_48
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 0
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaab5346c38ab99d0800000000000000
+      internalID: -2766432568756290902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grifu_sequencia_49
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 0
+        width: 281
+        height: 281
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8686880ff7864550800000000000000
+      internalID: 6144748271023064717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 55d6ab17493d7a64fb7033b97b9ede84
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
